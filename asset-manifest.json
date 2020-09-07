@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/HarmoniaWeb/static/css/main.5f361e03.chunk.css",
-    "main.js": "/HarmoniaWeb/static/js/main.441f1f68.chunk.js",
-    "main.js.map": "/HarmoniaWeb/static/js/main.441f1f68.chunk.js.map",
+    "main.js": "/HarmoniaWeb/static/js/main.629fc9cc.chunk.js",
+    "main.js.map": "/HarmoniaWeb/static/js/main.629fc9cc.chunk.js.map",
     "runtime-main.js": "/HarmoniaWeb/static/js/runtime-main.c6772d73.js",
     "runtime-main.js.map": "/HarmoniaWeb/static/js/runtime-main.c6772d73.js.map",
-    "static/js/2.9339b217.chunk.js": "/HarmoniaWeb/static/js/2.9339b217.chunk.js",
-    "static/js/2.9339b217.chunk.js.map": "/HarmoniaWeb/static/js/2.9339b217.chunk.js.map",
+    "static/js/2.3f70f9ef.chunk.js": "/HarmoniaWeb/static/js/2.3f70f9ef.chunk.js",
+    "static/js/2.3f70f9ef.chunk.js.map": "/HarmoniaWeb/static/js/2.3f70f9ef.chunk.js.map",
     "index.html": "/HarmoniaWeb/index.html",
-    "precache-manifest.c415a53d87b8e9a2812c13aebce84607.js": "/HarmoniaWeb/precache-manifest.c415a53d87b8e9a2812c13aebce84607.js",
+    "precache-manifest.14d9a18514571f42072f791f83cbdb95.js": "/HarmoniaWeb/precache-manifest.14d9a18514571f42072f791f83cbdb95.js",
     "service-worker.js": "/HarmoniaWeb/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/HarmoniaWeb/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9339b217.chunk.js.LICENSE.txt": "/HarmoniaWeb/static/js/2.9339b217.chunk.js.LICENSE.txt"
+    "static/js/2.3f70f9ef.chunk.js.LICENSE.txt": "/HarmoniaWeb/static/js/2.3f70f9ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6772d73.js",
-    "static/js/2.9339b217.chunk.js",
+    "static/js/2.3f70f9ef.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.441f1f68.chunk.js"
+    "static/js/main.629fc9cc.chunk.js"
   ]
 }
