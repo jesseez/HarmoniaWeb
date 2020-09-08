@@ -5,9 +5,10 @@ export default class Note {
 
   // Note value is described down below
   // Note length is a number describing the duration of the note in quarter notes. Ie a quarter note is 1, half note is 2, eighth note is 0.5
-  constructor(noteValue, noteLength) {
+  constructor(noteValue, noteLength, startTime) {
     this.noteValue = noteValue;
     this.noteLength = noteLength;
+    this.startTime = startTime;
   }
 
   getFrequency() {
