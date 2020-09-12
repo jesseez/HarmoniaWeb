@@ -14,3 +14,14 @@ function App() {
 }
 
 export default App;
+
+
+/*
+  - automagic volume adjutment based on pitch and number of oscillators playing
+  - OG harmonia
+  - random note harmonia
+  - running average harmonia
+  - keyboard harmonia
+  - DNA harmonia
+  - tone.js
+*/
